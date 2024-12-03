@@ -1,6 +1,8 @@
 ![Welcome Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Tech+and+Nature+World)
-
-# 🌟 **Atif Syed** | _Code, Cultivate, Innovate_
+<h1 align="center">
+  <img src="" alt="Atif Syed" />
+</h1>
+# 💻🌟 **Atif Syed** | _Code, Cultivate, Innovate_
 🔗 [Portfolio](https://your-portfolio-link.com) • 🌍 [LinkedIn](https://linkedin.com/in/yourprofile) • 📧 [Email Me](mailto:your-email@gmail.com)
 
 ---
