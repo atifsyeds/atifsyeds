@@ -1,6 +1,7 @@
 ![Welcome Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Tech+and+Nature+World)
-<h1 align="center">
-  <img src="" alt="Atif Syed" />
+  <h1 align="center">
+  <img src="https://raw.githubusercontent.com/atifsyeds/atifsyeds/master/name.svg" alt="Atif Syeds" />
+</h1>
 </h1>
 # 💻🌟 **Atif Syed** | _Code, Cultivate, Innovate_
 🔗 [Portfolio](https://your-portfolio-link.com) • 🌍 [LinkedIn](https://linkedin.com/in/yourprofile) • 📧 [Email Me](mailto:your-email@gmail.com)
